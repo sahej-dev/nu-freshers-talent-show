@@ -5,7 +5,7 @@ __NOTE:__ The incomplete versions of the sofwtwares is just the commented out fu
 
 ## How to Run on Your Own Machine?
 ### Rain Simulation:
-Each iteration of the project has a folder named *vc2019*, which contains a Visual Studio 2019 Project. Just open it and hit run in Visual Studio 2019. An installer for windows is also available <a href ="https://github.com/sahej-dev/nu-freshers-talent-show\Rain_Simulation\Setup">here</a>.
+Each iteration of the project has a folder named *vc2019*, which contains a Visual Studio 2019 Project. Just open it and hit run in Visual Studio 2019. An installer for windows is also available <a href ="https://github.com/sahej-dev/nu-freshers-talent-show/tree/master/Rain_Simulation/Setup">here</a>.
 
 ### Sine Waves:
 Just open *index.html* in a web browser.
