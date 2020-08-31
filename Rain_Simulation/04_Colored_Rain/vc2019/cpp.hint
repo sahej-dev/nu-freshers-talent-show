@@ -1,0 +1,9 @@
+// Hint files help the Visual Studio IDE interpret Visual C++ identifiers
+// such as names of functions and macros.
+// For more information see https://go.microsoft.com/fwlink/?linkid=865984
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_MAC( APP, RENDERER,##__VA_ARGS__ )
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_COCOA_TOUCH( APP, RENDERER,##__VA_ARGS__ )
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_MSW( APP, RENDERER,##__VA_ARGS__ )
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_WINRT( APP, RENDERER,##__VA_ARGS__ )
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_ANDROID( APP, RENDERER,##__VA_ARGS__ )
+#define CINDER_APP(APP, RENDERER, __VA_ARGS__) CINDER_APP_LINUX( APP, RENDERER,##__VA_ARGS__ )

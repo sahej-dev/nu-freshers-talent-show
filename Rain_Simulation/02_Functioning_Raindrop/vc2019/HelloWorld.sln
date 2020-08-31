@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld.vcxproj", "{8C5505DD-584C-41DD-92D6-2553B5EAAC11}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMaker", "..\SetupMaker\SetupMaker.vdproj", "{B2C0913E-AC7B-4C04-8CB7-634F52CD2938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5505DD-584C-41DD-92D6-2553B5EAAC11}.Debug|x64.ActiveCfg = Debug|x64
+		{8C5505DD-584C-41DD-92D6-2553B5EAAC11}.Debug|x64.Build.0 = Debug|x64
+		{8C5505DD-584C-41DD-92D6-2553B5EAAC11}.Release|x64.ActiveCfg = Release|x64
+		{8C5505DD-584C-41DD-92D6-2553B5EAAC11}.Release|x64.Build.0 = Release|x64
+		{B2C0913E-AC7B-4C04-8CB7-634F52CD2938}.Debug|x64.ActiveCfg = Debug
+		{B2C0913E-AC7B-4C04-8CB7-634F52CD2938}.Release|x64.ActiveCfg = Release
+		{B2C0913E-AC7B-4C04-8CB7-634F52CD2938}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF4832E4-FB73-4909-ACD5-488616D9A68B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿  HelloWorldApp.cpp
+  Rain.cpp
+  RainDrop.cpp
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(49,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(49,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(49,21): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(64,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(64,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(64,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(64,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(82,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(82,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(82,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(82,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(100,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(100,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(100,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\RainDrop.cpp(100,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HelloWorld.vcxproj -> H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy (3)\vc2019\x64\Debug\HelloWorld.exe

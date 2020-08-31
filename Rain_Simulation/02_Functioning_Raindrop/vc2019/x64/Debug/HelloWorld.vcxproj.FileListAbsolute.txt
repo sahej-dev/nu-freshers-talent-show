@@ -1,0 +1,6 @@
+H:\Documents\C++\Cinder\Projects\HelloWorld\vc2019\x64\Debug\HelloWorld.exe
+H:\Documents\C++\Cinder\Projects\HelloWorld\vc2019\x64\Debug\HelloWorld.pdb
+H:\Documents\C++\Cinder\Projects\RainSimCollege\vc2019\x64\Debug\HelloWorld.exe
+H:\Documents\C++\Cinder\Projects\RainSimCollege\vc2019\x64\Debug\HelloWorld.pdb
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy\vc2019\x64\Debug\HelloWorld.exe
+H:\Documents\C++\Cinder\Projects\RainSimCollege - Copy\vc2019\x64\Debug\HelloWorld.pdb
